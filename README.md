@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="center" height="" width="200" autoplay />
 </div>  
+
 ## <div align="center">Hey 👋, I'm Sean Karl Tyrese Aguilar!</div> 
 
 <br/>  
@@ -46,7 +47,6 @@
 </div>  
 
 <br/>  
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aguilarsean&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
