@@ -2,9 +2,7 @@
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="center" height="" width="200" autoplay />
 </div>  
   
-
 ## <div align="center">Hey 👋, I'm Sean Karl Tyrese Aguilar!</div>  
-  
   
 <br/>  
 
@@ -16,7 +14,6 @@
 ⚡ Fun fact: I am a [speedcuber](https://www.worldcubeassociation.org/persons/2016AGUI06)
   
 <br/>  
-
 
 ## 💻 Tech Stack:  
 
@@ -60,10 +57,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sean.aguilar.10/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/seanaguuuu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seanaguilar04/) 
 
-
 ##
 
-
 [![](https://visitcount.itsvg.in/api?id=aguilarsean&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
