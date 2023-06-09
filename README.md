@@ -24,7 +24,7 @@
 
 
 ### 🔎 Programming Languages:  
-<div align="center">  
+<div align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -36,7 +36,7 @@
 
 
 ### 🌐 Web & Mobile Development:  
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -51,7 +51,7 @@
 
 
 ### ⚙️ Databases:  
-<div align="center">  
+<div align="left">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>  
@@ -59,16 +59,15 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aguilarsean&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aguilarsean&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarsean&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=aguilarsean&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
+[![](https://visitcount.itsvg.in/api?id=aguilarsean&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarsean&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br/>  
 
