@@ -5,12 +5,14 @@
 ## <div align="center">Hey 👋, I'm Sean Karl Tyrese Aguilar!</div> 
 
 ## 💫 About Me:
+
 🔭 I’m currently working on [TrackMinder](https://github.com/aguilarsean/TrackMinder) 
 <br>
 🌱 I’m currently learning Java and Flutter
 <br>
 ⚡ Fun fact: I am a [speedcuber](https://www.worldcubeassociation.org/persons/2016AGUI06)
 <br/>  
+
 
 ## 💻 Tech Stack:  
 
@@ -24,6 +26,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>  
 
+
 ### 🌐 Web & Mobile Development:  
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -36,6 +39,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>  
+
 
 ### ⚙️ Databases:  
 <div align="left">  
