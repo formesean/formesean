@@ -41,6 +41,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>  
+
 ##
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aguilarsean&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
