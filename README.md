@@ -11,11 +11,8 @@
 <br>
 ⚡ Fun fact: I am a [speedcuber](https://www.worldcubeassociation.org/persons/2016AGUI06)
 <br/>  
-
 ##
-
 ## 💻 Tech Stack:  
-
 ### 🔎 Programming Languages:  
 <div align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -25,7 +22,6 @@
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>  
-
 
 ### 🌐 Web & Mobile Development:  
 <div align="left">  
@@ -45,14 +41,13 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>  
-
+##
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aguilarsean&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aguilarsean&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarsean&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+##
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sean.aguilar.10/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/seanaguuuu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seanaguilar04/) 
-
 ##
 [![](https://visitcount.itsvg.in/api?id=aguilarsean&icon=0&color=0)](https://visitcount.itsvg.in)
