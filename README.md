@@ -4,8 +4,6 @@
 
 ## <div align="center">Hey 👋, I'm Sean Karl Tyrese Aguilar!</div> 
 
-<br/>  
-
 ## 💫 About Me:
 🔭 I’m currently working on [TrackMinder](https://github.com/aguilarsean/TrackMinder) 
 <br>
