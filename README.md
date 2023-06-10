@@ -3,13 +3,11 @@
 </div>  
 
 ## <div align="center"><h2>Hey 👋, I'm Sean Karl Tyrese Aguilar!</h2></div><div><h3>💫 About Me:</h3></div>
-<br/>
 <ul>
-<li><h4>🔭 I’m currently working on [TrackMinder](https://github.com/aguilarsean/TrackMinder)</h4></li>
+<li><h4>🔭 I’m currently working on <a href="https://github.com/aguilarsean/TrackMinder" target="_blank">TrackMinder</a></h4></li>
 <li><h4>🌱 I’m currently learning Java and Flutter</h4></li>
-<li><h4>⚡ Fun fact: I am a [speedcuber](https://www.worldcubeassociation.org/persons/2016AGUI06)</h4></li>
+<li><h4>⚡ Fun fact: I am a <a href="https://www.worldcubeassociation.org/persons/2016AGUI06" target="_blank">speedcuber</a></h4></li>
 </ul>
-<br/> 
 
 ##
 
