@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="center" height="" width="200" autoplay />
 </div>  
 
-## <div align="center">Hey 👋, I'm Sean Karl Tyrese Aguilar!</div> 
+## <h3 align="center">Hey 👋, I'm Sean Karl Tyrese Aguilar!</h3> 
 
 ## 💫 About Me:
 🔭 I’m currently working on [TrackMinder](https://github.com/aguilarsean/TrackMinder) 
