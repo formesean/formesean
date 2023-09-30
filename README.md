@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on (hiatus) C CodeGrid<br>- 📚 I'm currently learning Java and Flutter<br>- 👨‍💻 All of my projects are available at seanaguilar.vercel.app<br>- ⚡ Fun fact I am a speedcuber</p>
+<p align="left">- 🔭 I’m working on (hiatus) [C CodeGrid](https://github.com/aguilarsean/C-CodeGrid)<br>- 📚 I'm currently learning Java and Flutter<br>- 👨‍💻 All of my projects are available at seanaguilar.vercel.app<br>- ⚡ Fun fact I am a speedcuber</p>
 
 ###
 
