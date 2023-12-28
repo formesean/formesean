@@ -25,9 +25,9 @@
 
 ###
 
-- 🔭 I’m currently working on (hiatus) [C CodeGrid](https://github.com/aguilarsean/C-CodeGrid)
+- 🔭 I’m currently working on [Sonifi](https://github.com/aguilarsean/C-CodeGrid)
 
-- 🌱 I’m currently learning **Java and Flutter**
+- 🌱 I’m currently learning **Advanced TypeScript and Database Management**
 
 - 👨‍💻 All of my projects are available at [seanaguilar.vercel.app](https://seanaguilar.vercel.app/)
 
@@ -123,15 +123,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aguilarsean&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=aguilarsean&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aguilarsean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=formesean&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=formesean&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=formesean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aguilarsean.aguilarsean&left_text=visitor"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=formesean.formesean&left_text=visitor"  />
 </div>
 
 ###
