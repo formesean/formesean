@@ -25,7 +25,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Sonifi](https://github.com/aguilarsean/C-CodeGrid)
+- 🔭 I’m currently working on [Sonifi](https://github.com/formesean/Sonifi)
 
 - 🌱 I’m currently learning **Advanced TypeScript and Database Management**
 
