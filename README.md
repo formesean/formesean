@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://private-user-images.githubusercontent.com/74038190/240814242-2c79649a-b04c-4c78-998f-c126db48305c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3MDY3NDksIm5iZiI6MTcyMzcwNjQ0OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyNDItMmM3OTY0OWEtYjA0Yy00Yzc4LTk5OGYtYzEyNmRiNDgzMDVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDA3MjA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwMDA2Nzc2MDhiZjg1ZDhmYWM0YWU2MWFmOGQ1YmNjOTY1YjIyMzU5MGM1ZWFmMzBkNzc5YzExYzliNmMyMTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.34x4_d9ot40ghTGc9EBu4bf9uhCAfcnWXp9HheQ1G-0"  />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone"     width="200" height="200" />
 </div>
 
 ###
