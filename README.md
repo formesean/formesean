@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Aspiring Full-Stack Web Developer</h4>
+<h3 align="center">Aspiring Full-Stack Web Developer</h3>
 
 ###
 
