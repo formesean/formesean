@@ -103,9 +103,13 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="git logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="git logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="5" />
