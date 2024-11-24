@@ -34,14 +34,6 @@
 
 ###
 
-<p align="center">
-		<a href="https://www.codewars.com/users/parme.sean" target="_blank">
-			<img src="https://github.r2v.ch/codewars?user=parme.sean&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level" alt="Codewars badge" />
-		</a>
-</p>
-
-###
-
 <h2 align="center">Languages & Technologies</h2>
 
 ###
