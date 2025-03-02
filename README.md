@@ -34,14 +34,16 @@
 
 ###
 
-## Languages & Technologies  
+<h2 align="center">Languages & Technologies</h2>
 <div align="center">  
   <a href="https://skillicons.dev">  
     <img src="https://skillicons.dev/icons?i=c,cmake,cpp,css,dart,expressjs,fastapi,firebase,flutter,gcp,html,java,javascript,matlab,nextjs,nodejs,opencv,php,postgresql,prisma,python,react,supabase,tailwindcss,tensorflow,typescript&theme=dark&perline=13" />  
   </a>  
 </div>  
 
-## Tools  
+###
+
+<h2 align="center">Tools</h2>
 <div align="center">  
   <a href="https://skillicons.dev">  
     <img src="https://skillicons.dev/icons?i=arduino,bash,docker,git,github,linux,notion,npm,powershell,raspberrypi,vercel,vim,vscode&theme=dark&perline=13" />
