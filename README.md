@@ -27,9 +27,9 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seanaguilar698@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/seanaguuuu" target="_blank">
+  <!-- <a href="https://x.com/seanaguuuu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=𝕏 (Twitter)&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X (formerly Twitter) logo" />
-  </a>
+  </a> -->
 </div>
 
 ###
