@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone"     width="200" height="200" />
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone"     width="100" height="100" />
 </div>
 
-###
+### -->
 
 <h1 align="center">Hi, I'm Sean!</h1>
 <h3 align="center">Full-Stack Developer & Robotics Enthusiast</h3>
